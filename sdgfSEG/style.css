@@ -1,0 +1,71 @@
+@font-face {
+    font-family: SAYAN;
+    src: url(Saiyan-Sans.ttf);
+}
+
+.img_pagina{
+    width: 250px;
+    height: auto;
+    margin-left: 200px;
+}
+
+.img_1{
+    width: 1000px;
+    display: block;
+    margin-left: 450px;
+}
+.goku{
+    color: chocolate;
+    font-family: SAYAN;
+    margin-left: 290px;
+}
+.vegeta{
+    color:blue;
+    font-family: SAYAN;
+    margin-left: 290px;
+}
+.piccolo{
+    color: rgb(39, 180, 81);
+    font-family: SAYAN;
+    margin-left: 290px;
+}
+.krilin{
+    color: rgb(252, 122, 0);
+    font-family: SAYAN;
+    margin-left: 290px;
+}
+.yamcha{
+    color: rgb(206, 147, 21);
+    font-family: SAYAN;
+    margin-left: 290px;
+}
+.tenshinhan{
+    color: rgb(34, 151, 34);
+    font-family: SAYAN;
+    margin-left: 290px;
+}
+.chaoz{
+    color: rgb(210, 30, 30);
+    font-family: SAYAN;
+    margin-left: 290px;
+}
+.maestrorochi{
+    color: rgb(114, 30, 210);
+    font-family: SAYAN;
+    margin-left: 290px;
+}
+.songohan{
+    color: rgb(110, 34, 34);
+    font-family: SAYAN;
+    margin-left: 290px;
+}
+.goten{
+    color: rgb(6, 2, 43);
+    font-family: SAYAN;
+    margin-left: 290px;
+}
+.trunks{
+    color: rgb(198, 149, 255);
+    font-family: SAYAN;
+    margin-left: 290px;
+     }
